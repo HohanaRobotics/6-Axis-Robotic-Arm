@@ -1,1 +1,1 @@
-# 6-Axis-Robotic-Arm
+# Robotic-Arm
